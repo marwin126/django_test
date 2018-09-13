@@ -1,2 +1,2 @@
 # django_test
-django test
+this is a django test
